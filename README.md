@@ -11,8 +11,8 @@ Welcome to my GitHub profile!
 
 
 ## 🌟 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/sepefr)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepefr&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/sepefr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/sepefr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepef&layout=compact&theme=radical)](https://github.com/sepefr)
 
 
