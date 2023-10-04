@@ -1,9 +1,11 @@
 # Hi there 👋
+
 I'm Francesco, a computer science student at Sapienza University of Rome. 
----
+
+
 I'm passionate about competitive programming and CTF challenges.
 Welcome to my GitHub profile! 
----
+
 ## 🚀 Skills & Technologies
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
